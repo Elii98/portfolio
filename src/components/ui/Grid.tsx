@@ -155,28 +155,28 @@ const Grid = () => {
 							</div>
 						</GridItem>
 						<div className="flex justify-between">
-							<GridItem className="p-3">
+							<GridItem className="!p-3">
 								<SocialIcon
 									href="https://wa.me/96181156678"
 									network="whatsapp"
 									className="transition-all hover:scale-110"
 								/>
 							</GridItem>
-							<GridItem className="p-3">
+							<GridItem className="!p-3">
 								<SocialIcon
 									href="https://www.linkedin.com/in/ali-ibrahim-b44b06155/"
 									network="linkedin"
 									className="transition-all hover:scale-110"
 								/>
 							</GridItem>
-							<GridItem className="p-3">
+							<GridItem className="!p-3">
 								<SocialIcon
 									href="mailto:alimouhan.ibrahim@gmail.com"
 									network="email"
 									className="transition-all hover:scale-110"
 								/>
 							</GridItem>
-							<GridItem className="p-3">
+							<GridItem className="!p-3">
 								<SocialIcon
 									href="https://github.com/Elii98"
 									network="github"
