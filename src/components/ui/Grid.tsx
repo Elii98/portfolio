@@ -50,7 +50,6 @@ import {
 	WordpressPlain
 } from "devicons-react"
 import MarqueeIcon from "./MarqueeIcon"
-import { useState } from "react"
 
 const Grid = () => {
 	return (
